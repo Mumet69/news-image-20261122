@@ -1,8 +1,8 @@
 # news-image-20261122
 
-[![news-image-20261122](badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122)
-[![rank](badge/news-image-20261122/Mumet69/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122)
-[![reward](badge/news-image-20261122/Mumet69/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/Mumet69/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/Mumet69/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 Sum up 22 November's world news in one image — a 1024x1024 newspaper front page for Sunday 22 November 2026.
 
